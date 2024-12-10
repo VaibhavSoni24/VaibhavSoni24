@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaibhavSoni24
 - 👀 I’m interested in Modern Tech
 - 🌱 I’m currently learning Game Dev, Generative AI, VFX
-- 💞️ I’m looking to collaborate on Video Editing, Open Source Projects
+- 💞️ I’m looking to collaborate on Game Development, Hackthons, Video Editing, Open Source Projects
 - 📫 How to reach me, contact me on my E-Mail: vaibhavsoni280506@gmail.com
 - 😄 Pronouns: Shubham
 - ⚡ Fun fact: I am a anime fan.
