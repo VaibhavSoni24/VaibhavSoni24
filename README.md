@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game Development, Hackthons, Video Editing, Open Source Projects
 - 📫 How to reach me, contact me on my E-Mail: vaibhavsoni280506@gmail.com
 - 😄 Pronouns: Shubham
-- ⚡ Fun fact: I am a anime fan.
+- ⚡ Fun fact: I am a anime fan (I guess).
 
 <!---
 VaibhavSoni24/VaibhavSoni24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
