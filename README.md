@@ -1,61 +1,121 @@
-# VaibhavSoni24
+# Hi, I'm Vaibhav Soni 👋
 
-Welcome to my **personal GitHub repository** — a central hub showcasing who I am, what I build, and how I learn. This repository serves as a digital identity for me as a passionate Computer Science student, developer, and creator.
+### Full Stack + AI Engineer | Building Scalable Systems & Intelligent Products
 
-## 👤 About Me
-
-I'm **Vaibhav Soni**, a second-year Computer Science Engineering student at Arya College of Engineering, Jaipur. I actively explore and build projects in **Game Development, AI, Web Development, and Open Source**, while continuously learning and improving.
-
-This repository reflects my journey and acts as a place to:
-
-- Showcase skills and certifications
-- Maintain links to my projects
-- Track learning milestones
-- Share development progress
-
-## 🚀 Highlights
-
-- 🔧 Game Developer (GoDot)
-- 🤖 AI/ML & Chatbot Enthusiast
-- 🌐 Full-Stack Web Developer
-- 🎓 Core knowledge in C, C++, Java, and Python
-- 🧠 Generative AI explorer
-- 🎮 Creator of the FlaskLab series
-
-## 🔗 Live Links
-
-- **Portfolio Website**: [vaibhavsoniportfolio.netlify.app](https://vaibhavsoniportfolio.netlify.app)
-- **LinkedIn**: [linkedin.com/in/vaibhav-soni](https://www.linkedin.com/in/vaibhav-soni)
-- **GitHub**: [github.com/VaibhavSoni24](https://github.com/VaibhavSoni24)
-
-## 🧪 FlaskLab by Vaibhav
-
-I’ve started a creative project series called **FlaskLab by Vaibhav** — a collection of Flask-based web applications that experiment with AI, interactivity, and real-world utility.  
-Check out projects like the [Drowsiness Detector Flask App](https://github.com/VaibhavSoni24/Drowsiness_Detector) and more coming soon.
-
-## 📂 Repository Purpose
-
-This repo may include:
-
-- Project overviews
-- Personal goals and achievements
-- Resume/CV snapshots
-- Assets or notes from talks, events, or challenges
-
-## 📜 License
-
-Open for all to view and learn from. If you’re inspired or want to collaborate, feel free to reach out!
+🚀 I design and build real-world AI-powered applications, full-stack platforms, and games.
+💡 Passionate about solving complex problems using AI, automation, and system design.
 
 ---
 
-_“Code. Create. Repeat.”_
+## 🔥 Featured Projects
 
-## Extra
+### 🧠 CivicSaathi
 
-- 👋 Hi, I’m @VaibhavSoni24
-- 👀 I’m interested in Modern Tech
-- 🌱 I’m currently learning Game Dev, Generative AI, Machine Learning
-- 💞️ I’m looking to collaborate on Game Development, Hackthons, Video Editing, Open Source Projects
-- 📫 How to reach me, contact me on my E-Mail: vaibhavsoni280506@gmail.com
-- 😄 Pronouns: Shubham
-- ⚡ Fun fact: I am a anime fan (I guess).
+AI-powered municipal complaint management system
+
+* Smart complaint routing + duplicate detection
+* SLA-based escalation system
+* Built with Django + Next.js + Gemini API
+  🏆 Runner-Up @ Rajasthan Digifest Hackathon
+
+---
+
+### 🎙 Real-Time Call Analyzer
+
+AI meeting assistant with transcription + insights
+
+* Generates MOM + sends calendar/email updates
+* Real-time speech processing
+  🏆 Top 7 @ Sphinx MNIT Jaipur
+
+---
+
+### ☁ Multi-Cloud Manager
+
+Unified dashboard for AWS, GCP & Azure
+
+* Centralized resource control
+* Secure cloud authentication
+* Container & VM management
+
+---
+
+### 🧠 CodeConcept
+
+AI-powered code understanding platform
+
+* Detects conceptual mistakes (not just syntax)
+* AST visualization + guided feedback
+* Built using FastAPI + React
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**
+C, C++, Java, Python, JavaScript, TypeScript
+
+**Frontend:**
+React, Next.js, Tailwind CSS
+
+**Backend:**
+Node.js, Express, Django, Flask
+
+**AI/ML:**
+TensorFlow, PyTorch, OpenCV, Scikit-learn
+
+**Tools & Platforms:**
+Docker, Firebase, Supabase, Git, Linux
+
+---
+
+## 🏆 Achievements
+
+* 🥈 Runner-Up — Rajasthan Digifest Hackathon
+* 🧠 Top 7 — MNIT Jaipur Hackathon
+* 🚀 Top 10 — Enigma Hackathon
+* 📊 Top 25% — IIT Guwahati Summer Analytics
+
+---
+
+## 💼 Experience
+
+**AI Trainer Intern — Aerophantom**
+
+* Trained students on AI automation & electronics
+* Built sensor-based automation systems
+
+**Game Developer Intern — Vortalis Technologies**
+
+* Developed multiplayer zombie game (GMTK Game Jam)
+
+**Web Developer Intern — CollegeTips.in**
+
+* Contributed to frontend of production website
+
+---
+
+## 📈 GitHub Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaibhavSoni24\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* 🔗 Portfolio: https://vaibhavsoniportfolio.vercel.app
+* 💼 LinkedIn: https://www.linkedin.com/in/vaibhav-soni-867836285/
+* 💻 GitHub: https://github.com/VaibhavSoni24
+* 📧 Email: [vaibhavsoni280506@gmail.com](mailto:vaibhavsoni280506@gmail.com)
+
+---
+
+## ⚡ Current Focus
+
+* Building AI-powered SaaS products
+* Scaling full-stack systems
+* Game development (Godot & Unity)
+
+---
+
+⭐ If you like my work, consider starring my repositories!
