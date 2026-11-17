@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="54" viewBox="0 0 760 54" role="img" aria-labelledby="t d">
+<title id="t">Vaibhav Soni animated introduction</title>
+<desc id="d">Looping typing animation cycling through developer roles.</desc>
+<rect width="760" height="54" rx="8" fill="#050505"/>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="monospace" font-size="17">
+<tspan>Computer Science Undergraduate</tspan>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.32;0.4;1" dur="16s" repeatCount="indefinite"/>
+</text>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="monospace" font-size="17" opacity="0">
+<tspan>AI &amp; Full-Stack Developer</tspan>
+<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.4;0.72;0.8" dur="16s" repeatCount="indefinite"/>
+</text>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="monospace" font-size="17" opacity="0">
+<tspan>Open-Source Contributor</tspan>
+<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.4;0.72;0.8;0.82;0.94;1" dur="16s" repeatCount="indefinite"/>
+</text>
+</svg>
