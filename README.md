@@ -11,7 +11,7 @@
 <a href="mailto:vaibhavsoni280506@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/VaibhavSoni24"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=E8E8E8&center=true&vCenter=true&repeat=true&width=720&height=48&lines=Computer+Science+Undergraduate;AI+%26+Full-Stack+Developer;Open-Source+Contributor;Building+useful+things%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+![Animated typing introduction](./assets/typing-loop.svg)
 </div>
 
 ---
