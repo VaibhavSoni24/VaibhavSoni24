@@ -11,7 +11,7 @@
 <a href="mailto:vaibhavsoni280506@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/VaibhavSoni24"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
-![Animated typing introduction](./assets/typing-loop.svg)
+<img src="./assets/typing-loop.svg" alt="Animated typing introduction" width="760" />
 </div>
 
 ---
