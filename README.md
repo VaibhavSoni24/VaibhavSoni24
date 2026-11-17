@@ -1,10 +1,10 @@
 <!--
-  VAIBHAV SONI — BLACK / SHINOBI / GOOGLE / GITHUB
+  VAIBHAV SONI | BLACK / SHINOBI / GOOGLE / GITHUB
   Profile README for: github.com/VaibhavSoni24
   Local graphics: ./assets/
 -->
 <div align="center">
-<img src="./assets/shinobi-header.svg" alt="Vaibhav Soni — Building beyond limits" width="100%" />
+<img src="./assets/shinobi-header.svg" alt="Vaibhav Soni - Building beyond limits" width="100%" />
 <br/>
 <a href="https://www.linkedin.com/in/vaibhav-soni-867836285/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://vaibhavsoniportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-FFFFFF?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
@@ -20,15 +20,15 @@
 
 I'm **Vaibhav Soni**, a Computer Science undergraduate and builder from Jaipur, India.
 
-I enjoy turning complex problems into useful software — from AI-powered applications and developer tools to games and full-stack products. I care about practical engineering, thoughtful interfaces, and systems that solve real problems.
+I enjoy turning complex problems into useful software - from AI-powered applications and developer tools to games and full-stack products. I care about practical engineering, thoughtful interfaces, and systems that solve real problems.
 
 - Currently building: **VidHub**, **Bonk**, and **Beast Boy: The Last Hope**
 - Exploring: AI agents, applied machine learning, full-stack engineering, and game development
 - Community: **Google Gemini Student Ambassador**
 - Open source: Contributor to **OpenAIOps**
-- Education: B.Tech, Computer Science & Engineering — Arya College of Engineering (Main Campus), Jaipur
+- Education: B.Tech, Computer Science & Engineering - Arya College of Engineering (Main Campus), Jaipur
 
-> **My way of building:** learn deeply · build deliberately · iterate relentlessly.
+> **My way of building:** learn deeply - build deliberately - iterate relentlessly.
 
 ## `02 / CURRENT QUESTS`
 
@@ -53,36 +53,36 @@ A few projects that represent the kind of problems I like working on.
       <h3><a href="https://github.com/VaibhavSoni24/CivicSaathi">CivicSaathi</a></h3>
       AI-powered municipal complaint management: complaint verification, duplicate detection, smart routing, and SLA-driven escalation.
       <br/><br/><sub>Python · Django REST · Next.js · Gemini</sub><br/><br/>
-      <strong>Recognition:</strong> Runner-up, Rajasthan Digifest × TiE Global Hackathon.
+      <strong>Recognition:</strong> Runner-up, Rajasthan Digifest x TiE Global Hackathon.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/VaibhavSoni24/CodeConcept">CodeConcept</a></h3>
       An AI-assisted learning platform focused on understanding conceptual mistakes in code, with execution, static analysis, AST visualization, and guided feedback.
-      <br/><br/><sub>FastAPI · React · Vite · Monaco Editor</sub>
+      <br/><br/><sub>FastAPI · React · Vite · Monaco Editor</sub><br/><br/>[Repository](https://github.com/VaibhavSoni24/CodeConcept)
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/VaibhavSoni24/VisionSentinel">Vision Sentinel</a></h3>
       Evidence-driven verification and inspection that combines computer vision with a closed-loop decision engine.
-      <br/><br/><sub>Python · OpenCV · AI</sub>
+      <br/><br/><sub>Python · OpenCV · AI</sub><br/><br/>[Repository](https://github.com/VaibhavSoni24/VisionSentinel)
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/VaibhavSoni24/Impulse">IMPULSE</a></h3>
       An autonomous software-engineering agent for repository-level issue resolution and regression validation.
-      <br/><br/><sub>Python · Agentic systems · Google ADK</sub>
+      <br/><br/><sub>Python · Agentic systems · Google ADK</sub><br/><br/>[Repository](https://github.com/VaibhavSoni24/Impulse)
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/VaibhavSoni24/Phase-Drop">Phase Drop</a></h3>
       A privacy-focused Windows utility for converting, editing, compressing, and managing files through a radial drag-and-drop menu.
-      <br/><br/><sub>Windows · Desktop engineering</sub>
+      <br/><br/><sub>Windows · Desktop engineering</sub><br/><br/>[Repository](https://github.com/VaibhavSoni24/Phase-Drop)
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/VaibhavSoni24/ZYNC">Zync</a></h3>
       A synchronized watch-party platform with live chat, granular permissions, and expressive real-time interactions.
-      <br/><br/><sub>Web · Realtime · WebGL</sub>
+      <br/><br/><sub>Web · Realtime · WebGL</sub><br/><br/>[Repository](https://github.com/VaibhavSoni24/ZYNC) · [Live demo](https://zync-watch-party.vercel.app/)
     </td>
   </tr>
 </table>
@@ -90,15 +90,15 @@ A few projects that represent the kind of problems I like working on.
 <details>
   <summary><strong>More projects</strong></summary>
   <br/>
-  - [ToxiScan AI](https://github.com/VaibhavSoni24/ToxiScan-AI) — drug-toxicity prediction with ML and explainability.
-  - [DesignGuard AI](https://github.com/VaibhavSoni24/DesignGuard-AI) — CAD design validation and AI-assisted recommendations.
-  - [Nexus](https://github.com/VaibhavSoni24/Nexus) — autonomous Slack agent network.
-  - [SchemeSetu](https://github.com/VaibhavSoni24/SchemeSetu) — vernacular-first government-scheme discovery.
-  - [OpenSquare](https://github.com/VaibhavSoni24/OpenSquare) — 3D anime-inspired open-world browser game.
-  - [Marvel Multiverse Roadmap](https://github.com/VaibhavSoni24/Marvel-Roadmap) — release-order viewing guide across Marvel universes.
-  - [Undead Survival](https://github.com/VaibhavSoni24/Vortalis_Game) — multiplayer top-down zombie survival game.
-  - [Math Slam: Basketball Jam](https://github.com/VaibhavSoni24/Math-Slam-Basketball-Jam-V2) — multiplayer educational arcade game built with Phaser 4.
-  - [DreamWeaver](https://github.com/VaibhavSoni24/DreamWeaver) — branching AI story generator.
+  - [ToxiScan AI](https://github.com/VaibhavSoni24/ToxiScan-AI) - drug-toxicity prediction with ML and explainability.
+  - [DesignGuard AI](https://github.com/VaibhavSoni24/DesignGuard-AI) - CAD design validation and AI-assisted recommendations.
+  - [Nexus](https://github.com/VaibhavSoni24/Nexus) - [Live demo](https://nexus-gilt-xi.vercel.app/) - autonomous Slack agent network.
+  - [SchemeSetu](https://github.com/VaibhavSoni24/SchemeSetu) - vernacular-first government-scheme discovery.
+  - [OpenSquare](https://github.com/VaibhavSoni24/OpenSquare) - 3D anime-inspired open-world browser game.
+  - [Marvel Multiverse Roadmap](https://github.com/VaibhavSoni24/Marvel-Roadmap) - [Live website](https://marvel-multiverse-roadmap.vercel.app/) - release-order viewing guide across Marvel universes.
+  - [Undead Survival](https://github.com/VaibhavSoni24/Vortalis_Game) - [Play on itch.io](https://lastword.itch.io/undead-survival) - multiplayer top-down zombie survival game.
+  - [Math Slam: Basketball Jam](https://github.com/VaibhavSoni24/Math-Slam-Basketball-Jam-V2) - [Play online](https://vaibhavsoni24.github.io/Math-Slam-Basketball-Jam-V2/) - multiplayer educational arcade game built with Phaser 4.
+  - [DreamWeaver](https://github.com/VaibhavSoni24/DreamWeaver) - [Live demo](https://dreamweaverofficial.netlify.app/) - branching AI story generator.
 </details>
 
 ## `04 / THE TOOLKIT`
@@ -120,48 +120,52 @@ A few projects that represent the kind of problems I like working on.
 
 | Recognition | Result |
 |---|---|
-| IIT Guwahati — Summer Analytics 2026 | Top 10 percentile |
-| IIT Guwahati — Summer Analytics 2025 | Top 25 percentile |
-| Rajasthan Digifest × TiE Global Hackathon | Runner-up — CivicSaathi |
-| Sphinx, MNIT Jaipur Hackathon | Top 7 — Real-Time Call / Meeting Analyzer |
-| Enigma, RIET Hackathon | Top 10 — CivicSaathi |
-| ET AI Hackathon | Semifinalist — CivicSaathi |
-| HackJKLU | Top 30 — CodeConcept |
-| Nano Banana Challenge | Winner — September 2026 |
+| IIT Guwahati - Summer Analytics 2026 | Top 10 percentile |
+| IIT Guwahati - Summer Analytics 2025 | Top 25 percentile |
+| Rajasthan Digifest x TiE Global Hackathon | Runner-up - CivicSaathi |
+| Sphinx, MNIT Jaipur Hackathon | Top 7 - Real-Time Call / Meeting Analyzer |
+| Enigma, RIET Hackathon | Top 10 - CivicSaathi |
+| ET AI Hackathon | Semifinalist - CivicSaathi |
+| HackJKLU | Top 30 - CodeConcept |
+| Nano Banana Challenge | Winner - September 2026 |
 | XERJ Corpus Hub | Selected contributor; 499-line Python Pricing Registry indexed as an attributed reference |
 
 **Experience & community**
 
-- **Google Gemini Student Ambassador** — supporting student learning and adoption of Gemini.
-- **Open-source contributor, OpenAIOps** — contributing to observability and platform engineering.
-- **Founder, VidHub** — building a platform for video editors.
-- **Game Developer Intern, Vortalis Technologies** — developed *Undead Survival* for GMTK Game Jam.
-- **AI Trainer Intern, Aerophantom** — taught AI automation and sensor/transistor-based projects.
-- **Web Development Intern, CollegeTips.in** — contributed to the frontend of the company website.
+- **Google Gemini Student Ambassador** - supporting student learning and adoption of Gemini.
+- **Open-source contributor, OpenAIOps** - contributing to observability and platform engineering.
+- **Founder, VidHub** - building a platform for video editors.
+- **Game Developer Intern, Vortalis Technologies** - developed *Undead Survival* for GMTK Game Jam.
+- **AI Trainer Intern, Aerophantom** - taught AI automation and sensor/transistor-based projects.
+- **Web Development Intern, CollegeTips.in** - contributed to the frontend of the company website.
 
 ## `06 / LEARNING LOG`
 
 Research and structured learning keep me curious.
 
-- **SortSearch** — research on integrating target detection into the sorting/merge process.
-- **Decarbonizing Travel** — predictive carbon-management framework for corporate travel, developed as the IIT Guwahati Summer Analytics 2026 capstone.
-- **OpenAIOps** — learning and contributing to reliable, observable AI application infrastructure.
+- **SortSearch** - research on integrating target detection into the sorting/merge process.
+- **Decarbonizing Travel** - predictive carbon-management framework for corporate travel, developed as the IIT Guwahati Summer Analytics 2026 capstone.
+- **OpenAIOps** - learning and contributing to reliable, observable AI application infrastructure.
 
 ## `07 / GITHUB ACTIVITY`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavSoni24&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B8B8B8&icon_color=4285F4" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSoni24&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B8B8B8" height="165" alt="Most used languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=VaibhavSoni24&hide_border=true&background=00000000&ring=FBBC05&fire=EA4335&currStreakLabel=FFFFFF&sideLabels=B8B8B8&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub contribution streak"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavSoni24&bg_color=00000000&color=B8B8B8&line=4285F4&point=FBBC05&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
+<a href="https://github.com/VaibhavSoni24?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
+<a href="https://github.com/VaibhavSoni24?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-View-181717?style=for-the-badge&logo=github" alt="View starred repositories"/>
+</a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaibhavSoni24&theme=github_dark" width="100%" alt="GitHub profile contribution summary"/>
+
 </div>
 
 ### Contribution trail
 
 <div align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VaibhavSoni24/VaibhavSoni24/output/github-contribution-grid-snake.gif" alt="Animated GitHub contribution snake" width="100%"/>
 </div>
 
 ## `08 / THE SHINOBI WAY`
