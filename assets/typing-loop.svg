@@ -1,17 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="54" viewBox="0 0 760 54" role="img" aria-labelledby="t d">
-<title id="t">Vaibhav Soni animated introduction</title>
-<desc id="d">Looping typing animation cycling through developer roles.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="54" viewBox="0 0 760 54" role="img" aria-labelledby="title desc">
+<title id="title">Vaibhav Soni - looping developer introduction</title>
+<desc id="desc">Six descriptions appear one after another. Each remains visible for two seconds, followed by one second of blank space. The eighteen-second sequence loops continuously.</desc>
 <rect width="760" height="54" rx="8" fill="#050505"/>
-<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="monospace" font-size="17">
-<tspan>Computer Science Undergraduate</tspan>
-<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.32;0.4;1" dur="16s" repeatCount="indefinite"/>
-</text>
-<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="monospace" font-size="17" opacity="0">
-<tspan>AI &amp; Full-Stack Developer</tspan>
-<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.4;0.72;0.8" dur="16s" repeatCount="indefinite"/>
-</text>
-<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="monospace" font-size="17" opacity="0">
-<tspan>Open-Source Contributor</tspan>
-<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.4;0.72;0.8;0.82;0.94;1" dur="16s" repeatCount="indefinite"/>
-</text>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="JetBrains Mono,Consolas,monospace" font-size="17" opacity="0"><tspan>Computer Science Undergraduate</tspan><animate attributeName="opacity" calcMode="discrete" values="1;0;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.111111;0.166667;0.277778;0.333333;0.444444;0.5;0.611111;0.666667;0.777778;0.833333;0.944444;1" dur="18s" repeatCount="indefinite"/></text>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="JetBrains Mono,Consolas,monospace" font-size="17" opacity="0"><tspan>AI &amp; Full-Stack Developer</tspan><animate attributeName="opacity" calcMode="discrete" values="0;0;1;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.111111;0.166667;0.277778;0.333333;0.444444;0.5;0.611111;0.666667;0.777778;0.833333;0.944444;1" dur="18s" repeatCount="indefinite"/></text>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="JetBrains Mono,Consolas,monospace" font-size="17" opacity="0"><tspan>Open-Source Contributor</tspan><animate attributeName="opacity" calcMode="discrete" values="0;0;0;0;1;0;0;0;0;0;0;0;0" keyTimes="0;0.111111;0.166667;0.277778;0.333333;0.444444;0.5;0.611111;0.666667;0.777778;0.833333;0.944444;1" dur="18s" repeatCount="indefinite"/></text>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="JetBrains Mono,Consolas,monospace" font-size="17" opacity="0"><tspan>Google Gemini Student Ambassador</tspan><animate attributeName="opacity" calcMode="discrete" values="0;0;0;0;0;0;1;0;0;0;0;0;0" keyTimes="0;0.111111;0.166667;0.277778;0.333333;0.444444;0.5;0.611111;0.666667;0.777778;0.833333;0.944444;1" dur="18s" repeatCount="indefinite"/></text>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="JetBrains Mono,Consolas,monospace" font-size="17" opacity="0"><tspan>Game Developer &amp; Creative Builder</tspan><animate attributeName="opacity" calcMode="discrete" values="0;0;0;0;0;0;0;0;1;0;0;0;0" keyTimes="0;0.111111;0.166667;0.277778;0.333333;0.444444;0.5;0.611111;0.666667;0.777778;0.833333;0.944444;1" dur="18s" repeatCount="indefinite"/></text>
+<text x="380" y="34" text-anchor="middle" fill="#E8E8E8" font-family="JetBrains Mono,Consolas,monospace" font-size="17" opacity="0"><tspan>Building useful things, one commit at a time</tspan><animate attributeName="opacity" calcMode="discrete" values="0;0;0;0;0;0;0;0;0;0;1;0;0" keyTimes="0;0.111111;0.166667;0.277778;0.333333;0.444444;0.5;0.611111;0.666667;0.777778;0.833333;0.944444;1" dur="18s" repeatCount="indefinite"/></text>
 </svg>
